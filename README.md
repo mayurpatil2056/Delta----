@@ -1,2 +1,2 @@
 # Delta----
-This is a Git &amp; Github 
+This is a Git &amp; Github.
